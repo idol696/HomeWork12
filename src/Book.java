@@ -13,14 +13,6 @@ public class Book {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setAuthor(Author author) {
-        this.author = author;
-    }
-
     public void setYear(int year) {
         this.year = year;
     }
